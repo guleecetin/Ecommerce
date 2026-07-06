@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Windows 10\\source\\repos\\ecommerce2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5B51B7-DA86-49E5-9271-E7593DDEB7DD}|ecommerce.Application\\ecommerce.Application.csproj|c:\\users\\windows 10\\source\\repos\\ecommerce2\\ecommerce.application\\dtos\\mappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5B51B7-DA86-49E5-9271-E7593DDEB7DD}|ecommerce.Application\\ecommerce.Application.csproj|solutionrelative:ecommerce.application\\dtos\\mappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MappingExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\source\\repos\\ecommerce2\\ecommerce.Application\\Dtos\\MappingExtensions.cs",
+              "RelativeDocumentMoniker": "ecommerce.Application\\Dtos\\MappingExtensions.cs",
+              "ToolTip": "C:\\Users\\Windows 10\\source\\repos\\ecommerce2\\ecommerce.Application\\Dtos\\MappingExtensions.cs",
+              "RelativeToolTip": "ecommerce.Application\\Dtos\\MappingExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T13:52:03.372Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

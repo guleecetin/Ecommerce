@@ -1,0 +1,2 @@
+C:\Users\Windows 10\source\repos\ecommerce2\ecommerce2\obj\Debug\ecommerce2.csproj.AssemblyReference.cache
+C:\Users\Windows 10\source\repos\ecommerce2\ecommerce2\obj\Debug\ecommerce2.csproj.CoreCompileInputs.cache
